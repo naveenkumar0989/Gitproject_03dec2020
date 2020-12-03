@@ -1,1 +1,1 @@
-This is sample file. Used to practise git.
+This is sample file.Very helpful to practise git cmds
